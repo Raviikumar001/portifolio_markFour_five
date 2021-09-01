@@ -155,7 +155,8 @@ body{
   
 }
 
-.name{
+.namee{
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 24px;
     font-weight: 600;
     margin-top: 16px;
