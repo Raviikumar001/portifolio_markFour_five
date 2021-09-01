@@ -220,7 +220,7 @@ button:focus, button:hover{
    }
    .main-footer__link{
    display:inline-block;
-   margin: 0 16px;
+   margin: 0.5rem 16px;
    }
    
    .main-footer__link a{
